@@ -1,2 +1,2 @@
-# Curso-FGV-On-LIne-Fun-es-B-sicas-do-R
+# Curso FGV On LIne Funções Básicas do R
 Colocar exercícios criados no estudo desse curso.
